@@ -1,8 +1,6 @@
 name,source,gender,wikidata,type
 "Acces A1",,,,way
 "Acces A2",,,,way
-"Acces P. Subterană Sisești 30 Residence",,,,way
-"Alee parcare",,,,way
 "Aleea Adjud",,,,way
 "Aleea Agigea",,,,way
 "Aleea Alexandru",,,,way
@@ -16,6 +14,7 @@ name,source,gender,wikidata,type
 "Aleea Apahida",,,,way
 "Aleea Apostol Mărgărit",,,,way
 "Aleea Argedava",,,,way
+"Aleea Arhitect Petre Antonescu",,,,way
 "Aleea Arieșul Mare",,,,way
 "Aleea Arinii Dornei",,,,way
 "Aleea Ariniș",,,,way
@@ -116,7 +115,6 @@ name,source,gender,wikidata,type
 "Aleea Dumbrăvița",,,,way
 "Aleea Emil Racoviță",,,,way
 "Aleea Eprubetei",,,,way
-"Aleea Fantana lui Narcis",,,,way
 "Aleea Fântâna lui Narcis",,,,way
 "Aleea Fetești",,,,way
 "Aleea Fizicienilor",,,,way
@@ -214,7 +212,6 @@ name,source,gender,wikidata,type
 "Aleea Pasărea în Văzduh",,,,way
 "Aleea Pașcani",,,,way
 "Aleea Perișoru",,,,way
-"Aleea Petre Antonescu, Arhitect",,,,way
 "Aleea Petrăchești",,,,way
 "Aleea Piatra Mare",,,,way
 "Aleea Platanilor",,,,way
@@ -307,7 +304,6 @@ name,source,gender,wikidata,type
 "Aleea Tripoli",,,,way
 "Aleea Ucea",,,,way
 "Aleea Uioara",,,,way
-"Aleea Ulmetum",,,,way
 "Aleea Urucu Dan Adrian",,,,way
 "Aleea Valea Argeșului",,,,way
 "Aleea Valea Boteni",,,,way
@@ -444,11 +440,9 @@ name,source,gender,wikidata,type
 "Bulevardul Tineretului",,,,way
 "Bulevardul Tudor Vladimirescu",,,,way
 "Bulevardul Unirii",,,,way
-"Bulevardul Unirii 62",,,,way
 "Bulevardul Uverturii",,,,way
 "Bulevardul Victor Dumitrescu",,,,way
 Băneasa,,,,relation
-"Cale acces",,,,way
 "Calea 13 Septembrie",,,,way
 "Calea Apeductului",,,,way
 "Calea Crângași",,,,way
@@ -472,8 +466,8 @@ Băneasa,,,,relation
 "Calea Șerban Vodă",,,,way
 "Champs Elysee",,,,way
 Chitila-Chiajna,,,,way
-"Curte Cake Revolution",,,,way
 DN6D,,,,way
+"DR10 Măgurele Expres",,,,way
 "Drum Malul cu Flori",,,,way
 "Drum Săbăreni",,,,way
 "Drum radial",,,,way
@@ -573,12 +567,12 @@ DN6D,,,,way
 "Drumul Movileni",,,,way
 "Drumul Muntele Găina",,,,way
 "Drumul Murgului",,,,way
+"Drumul Mănăstirii",,,,way
 "Drumul Nefliului",,,,way
 "Drumul Nicolae Șuțu",,,,way
 "Drumul Nisipoasa",,,,way
 "Drumul Nădlac",,,,way
 "Drumul Odăii",,,,way
-"Drumul Ohaba",,,,way
 "Drumul Opalului",,,,way
 "Drumul Osiei",,,,way
 "Drumul Penteleu",,,,way
@@ -844,7 +838,6 @@ DN6D,,,,way
 "Intrarea Ferentari A",,,,way
 "Intrarea Ferentari B",,,,way
 "Intrarea Ferentari C",,,,way
-"Intrarea Fieni",,,,way
 "Intrarea Filmului",,,,way
 "Intrarea Floare Galbenă",,,,way
 "Intrarea Fragilor",,,,way
@@ -1149,7 +1142,6 @@ DN6D,,,,way
 "Intrarea Teleajen",,,,way
 "Intrarea Teremia",,,,way
 "Intrarea Tigveni",,,,way
-"Intrarea Tihuța",,,,way
 "Intrarea Tiparniței",,,,way
 "Intrarea Titan",,,,way
 "Intrarea Tocului",,,,way
@@ -1236,11 +1228,11 @@ DN6D,,,,way
 Lemnarilor,,,,way
 "Lărgire Șoseaua de Centură",,,,way
 "Oxford Street",,,,way
+"Pantelimon Vest PO",,,,way
 "Pasaj Băneasa",,,,way
 "Pasaj Colentina",,,,way
 "Pasaj Comedia",,,,way
 "Pasaj Crângași",,,,way
-"Pasaj Doamna Ghica",,,,way
 "Pasaj Eroii Revolutiei",,,,way
 "Pasaj Majestic",,,,way
 "Pasaj Metrou Eroii Revolutiei",,,,way
@@ -1250,6 +1242,8 @@ Lemnarilor,,,,way
 "Pasaj pietonal sub Pasaj Aviatiei",,,,way
 "Pasajul Basarab",,,,way
 "Pasajul Berceni",,,,way
+"Pasajul Ciurel",,,,way
+"Pasajul Doamna Ghica",,,,way
 "Pasajul Domnești",,,,way
 "Pasajul Englez",,,,way
 "Pasajul Europa Unită",,,,way
@@ -1345,8 +1339,6 @@ Pasarela,,,,way
 "Piața Victoriei",,,,way
 "Piațeta Pietonală ""Constantin Brâncuși""",,,,way
 "Pista biciclete Sos. Pipera",,,,way
-"Pistă de biciclete",,,,way
-"Pod Ciurel",,,,way
 "Pod Teclu",,,,way
 "Podul Barbu Văcărescu",,,,way
 "Podul Ciurel",,,,way
@@ -1382,7 +1374,6 @@ Pasarela,,,,way
 "Soseaua Iancului",,,,way
 "Splaiul Independenței",,,,way
 "Splaiul Unirii",,,,way
-"Starda Gazelei",,,,way
 "Strada 11 Iunie",,,,way
 "Strada 16 Februarie",,,,way
 "Strada 19 Noiembrie",,,,way
@@ -1509,9 +1500,9 @@ Pasarela,,,,way
 "Strada Aninului",,,,way
 "Strada Ankara",,,,way
 "Strada Anton Bacalbașa",,,,way
-"Strada Anton Cehov Pavlov",,,,way
 "Strada Anton Golopenția",,,,way
 "Strada Anton Pann",,,,way
+"Strada Anton Pavlovici Cehov",,,,way
 "Strada Anul 1821",,,,way
 "Strada Anul 1864",,,,way
 "Strada Apele Vii",,,,way
@@ -1540,7 +1531,7 @@ Pasarela,,,,way
 "Strada Arhitect Dumitru Hârjeu",,,,way
 "Strada Arhitect Gheorghe Mandrea",,,,way
 "Strada Arhitect Gheorghe Sterian",,,,way
-"Strada Arhitect Grigore Cherchez",,,,way
+"Strada Arhitect Grigore Cerchez",,,,way
 "Strada Arhitect Ioan M. Socolescu",,,,way
 "Strada Arhitect Ion Mincu",,,,way
 "Strada Ariei",,,,way
@@ -1631,6 +1622,7 @@ Pasarela,,,,way
 "Strada Bâldana",,,,way
 "Strada Baldovin Pârcălabul",,,,way
 "Strada Bâlea",,,,way
+"Strada Baletului",,,,way
 "Strada Balomir",,,,way
 "Strada Balonului",,,,way
 "Strada Balota",,,,way
@@ -1686,7 +1678,7 @@ Pasarela,,,,way
 "Strada Bega",,,,way
 "Strada Begoniei",,,,way
 "Strada Beirut",,,,way
-"Strada Bela Bartok",,,,way
+"Strada Béla Bartók",,,,way
 "Strada Belgrad",,,,way
 "Strada Belizarie",,,,way
 "Strada Belșugului",,,,way
@@ -1949,6 +1941,7 @@ Pasarela,,,,way
 "Strada Chimirului",,,,way
 "Strada Chindiei",,,,way
 "Strada Chiparosului",,,,way
+"Strada Chiperești",,,,way
 "Strada Chiriac Bidoianu",,,,way
 "Strada Chiristigiilor",,,,way
 "Strada Chitarei",,,,way
@@ -2311,7 +2304,7 @@ Pasarela,,,,way
 "Strada Dimitrie Orbescu",,,,way
 "Strada Dimitrie Paciurea",,,,way
 "Strada Dimitrie Racoviță",,,,way
-"Strada Dinu Lippati",,,,way
+"Strada Dinu Lipatti",,,,way
 "Strada Dinu Vintilă",,,,way
 "Strada Diocheți",,,,way
 "Strada Dionisie Lupu",,,,way
@@ -2634,7 +2627,7 @@ Pasarela,,,,way
 "Strada Fraților",,,,way
 "Strada Freamătului",,,,way
 "Strada Frecăței",,,,way
-"Strada Frederic Chopin",,,,way
+"Strada Frédéric Chopin",,,,way
 "Strada Frezorilor",,,,way
 "Strada Frigului",,,,way
 "Strada Frosa Sarandy",,,,way
@@ -2889,7 +2882,6 @@ Pasarela,,,,way
 "Strada Heleșteului",,,,way
 "Strada Heliade între Vii",,,,way
 "Strada Heliului",,,,way
-"Strada Henri Coandă",,,,way
 "Strada Henri H. Stahl",,,,way
 "Strada Hepiteș Ștefan",,,,way
 "Strada Herculane",,,,way
@@ -3155,6 +3147,7 @@ Pasarela,,,,way
 "Strada Lebedei",,,,way
 "Strada Lectorului",,,,way
 "Strada Lecturii",,,,way
+"Strada Legendei",,,,way
 "Strada Lehliu",,,,way
 "Strada Lemnarilor",,,,way
 "Strada Lemnișorului",,,,way
@@ -3462,7 +3455,7 @@ Pasarela,,,,way
 "Strada Moldovei",,,,way
 "Strada Moldoveni",,,,way
 "Strada Moldovița",,,,way
-"Strada Moliere",,,,way
+"Strada Moliére",,,,way
 "Strada Monetăriei",,,,way
 "Strada Montana",,,,way
 "Strada Monumentului",,,,way
@@ -3720,6 +3713,7 @@ Pasarela,,,,way
 "Strada Parapetului",,,,way
 "Strada Paraschiva Gherghel",,,,way
 "Strada Paraschivescu",,,,way
+"Strada Pârâul Rece",,,,way
 "Strada Pârâului",,,,way
 "Strada Parcului",,,,way
 "Strada Parfumului",,,,way
@@ -3939,6 +3933,7 @@ Pasarela,,,,way
 "Strada Potârnichii",,,,way
 "Strada Poterași",,,,way
 "Strada Povernei",,,,way
+"Strada Povestei",,,,way
 "Strada Poștalionului",,,,way
 "Strada Poștașului",,,,way
 "Strada Poștei",,,,way
@@ -4338,6 +4333,7 @@ Pasarela,,,,way
 "Strada Sinaia",,,,way
 "Strada Sinești",,,,way
 "Strada Sintești",,,,way
+"Strada Sipotul Fantanilor",,,,way
 "Strada Sirenelor",,,,way
 "Strada Siret",,,,way
 "Strada Siriului",,,,way
@@ -4695,6 +4691,7 @@ Pasarela,,,,way
 "Strada Valea Hârtibaciului",,,,way
 "Strada Valea Ialomiței",,,,way
 "Strada Valea Jiului",,,,way
+"Strada Valea Largă",,,,way
 "Strada Valea Lungă",,,,way
 "Strada Valea Mare",,,,way
 "Strada Valea Merilor",,,,way
@@ -4962,8 +4959,7 @@ Tei,,,,relation
 "Varianta 1&2",,,,way
 "Varianta 2",,,,way
 "Velodrom Dinamo",,,,way
-service,,,,way
-"strada Chiperești",,,,way
+w,,,,way
 "Șoseaua Alexandria",,,,way
 "Șoseaua Alexandriei",,,,way
 "Șoseaua Andronache",,,,way
@@ -5007,7 +5003,6 @@ service,,,,way
 "Șoseaua Sportului",,,,way
 "Șoseaua Străulești",,,,way
 "Șoseaua Sălaj",,,,way
-"Șoseaua Vârtejului",,,,way
 "Șoseaua Vergului",,,,way
 "Șoseaua Viilor",,,,way
 "Șoseaua Virtuții",,,,way
