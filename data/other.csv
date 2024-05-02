@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"Piața Revoluției",wikidata,,Q204213,relation
 "Acces A1",,,,way
 "Acces A2",,,,way
 "Aleea Adjud",,,,way
@@ -512,6 +513,7 @@ DN6D,,,,way
 "Drumul Fântâna Oilor",,,,way
 "Drumul Fântâna Zânelor",,,,way
 "Drumul Floare de Colț",,,,way
+"Drumul Funigeilor",,,,way
 "Drumul Ghindari",,,,way
 "Drumul Gilăului",,,,way
 "Drumul Glavacioc",,,,way
@@ -629,6 +631,7 @@ DN6D,,,,way
 "Drumul Valea Călmățuiului",,,,way
 "Drumul Valea Danului",,,,way
 "Drumul Valea Doftanei",,,,way
+"Drumul Valea Furcii",,,,way
 "Drumul Valea Largă",,,,way
 "Drumul Vârful Berivoiul Mare",,,,way
 "Drumul Vârful Pleșița",,,,way
@@ -1063,7 +1066,6 @@ DN6D,,,,way
 "Intrarea Rojiștea",,,,way
 "Intrarea Rolei",,,,way
 "Intrarea Roma",,,,way
-"Intrarea Rondelului",,,,way
 "Intrarea Rondă",,,,way
 "Intrarea Roșianu",,,,way
 "Intrarea Roșiori",,,,way
@@ -1226,7 +1228,6 @@ DN6D,,,,way
 "Intrarea Țiglelor",,,,way
 "La Stâncărie",,,,way
 Lemnarilor,,,,way
-"Lărgire Șoseaua de Centură",,,,way
 "Oxford Street",,,,way
 "Pantelimon Vest PO",,,,way
 "Pasaj Băneasa",,,,way
@@ -1338,6 +1339,7 @@ Pasarela,,,,way
 "Piața Victor Babeș",,,,way
 "Piața Victoriei",,,,way
 "Piațeta Pietonală ""Constantin Brâncuși""",,,,way
+Pipera,,,,relation
 "Pista biciclete Sos. Pipera",,,,way
 "Pod Teclu",,,,way
 "Podul Barbu Văcărescu",,,,way
@@ -1371,7 +1373,6 @@ Pasarela,,,,way
 "Sectorului 10",,,,way
 "Sectorului 12",,,,way
 "Sectorului 8",,,,way
-"Soseaua Iancului",,,,way
 "Splaiul Independenței",,,,way
 "Splaiul Unirii",,,,way
 "Strada 11 Iunie",,,,way
@@ -2649,7 +2650,6 @@ Pasarela,,,,way
 "Strada Fuiorului",,,,way
 "Strada Fulgerești",,,,way
 "Strada Fumureni",,,,way
-"Strada Funigeilor",,,,way
 "Strada Furculești",,,,way
 "Strada Furnalului",,,,way
 "Strada Furnirului",,,,way
@@ -2764,6 +2764,7 @@ Pasarela,,,,way
 "Strada Gheorghe Timică",,,,way
 "Strada Gheorghe Tăttărescu",,,,way
 "Strada Gheorghe Vârtej",,,,way
+"Strada Gheorghe Vasilescu",,,,way
 "Strada Gheorghe Vitanidis",,,,way
 "Strada Gheorghe Ștefan",,,,way
 "Strada Gheorghe Șufaru",,,,way
@@ -3785,6 +3786,7 @@ Pasarela,,,,way
 "Strada Petru Maior",,,,way
 "Strada Petru Rareș",,,,way
 "Strada Petru Vodă",,,,way
+"Strada Petru și Pavel",,,,way
 "Strada Petuniei",,,,way
 "Strada Peștera Dâmbovicioara",,,,way
 "Strada Peștera Scărișoara",,,,way
@@ -4118,6 +4120,7 @@ Pasarela,,,,way
 "Strada Rombului",,,,way
 "Strada Romeo Popescu",,,,way
 "Strada Romulus",,,,way
+"Strada Rondelului",,,,way
 "Strada Rondă",,,,way
 "Strada Ropotului",,,,way
 "Strada Rosenthal",,,,way
@@ -4307,7 +4310,6 @@ Pasarela,,,,way
 "Strada Sfeclei",,,,way
 "Strada Sfinții Apostoli",,,,way
 "Strada Sfinții Constantin și Elena",,,,way
-"Strada Sfinții Petru și Pavel",,,,way
 "Strada Sfinții Voievozi",,,,way
 "Strada Sfinților",,,,way
 "Strada Sibiel",,,,way
@@ -4688,7 +4690,6 @@ Pasarela,,,,way
 "Strada Valea Cibinului",,,,way
 "Strada Valea Călmăţuiului",,,,way
 "Strada Valea Călugărească",,,,way
-"Strada Valea Furcii",,,,way
 "Strada Valea Hârtibaciului",,,,way
 "Strada Valea Ialomiței",,,,way
 "Strada Valea Jiului",,,,way
@@ -4742,7 +4743,6 @@ Pasarela,,,,way
 "Strada Vasile Toneanu",,,,way
 "Strada Vasile Vasilievici Stroescu",,,,way
 "Strada Vasile Voiculescu",,,,way
-"Strada Vasilescu M. Gheorghe",,,,way
 "Strada Vaslui",,,,way
 "Strada Vatra Dornei",,,,way
 "Strada Vatra Luminoasă",,,,way
