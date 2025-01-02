@@ -7,7 +7,6 @@ name,source,gender,wikidata,type
 "Aleea Alexandru",,,,way
 "Aleea Alexandru Brătescu-Voinești",,,,way
 "Aleea Alexandru Moruzi Voievod",,,,way
-"Aleea Alexandru Moruzzi Voievod",,,,way
 "Aleea Alexandru Tzigara Samurcaș",,,,way
 "Aleea Aleșd",,,,way
 "Aleea Aliorului",,,,way
@@ -39,7 +38,6 @@ name,source,gender,wikidata,type
 "Aleea Bârsănești",,,,way
 "Aleea Belvedere",,,,way
 "Aleea Berevoiești",,,,way
-"Aleea Bistra",,,,way
 "Aleea Bistricioara",,,,way
 "Aleea Blăjel",,,,way
 "Aleea Borcea",,,,way
@@ -80,7 +78,6 @@ name,source,gender,wikidata,type
 "Aleea Codrii Neamțului",,,,way
 "Aleea Coloana Infinitului",,,,way
 "Aleea Compozitorilor",,,,way
-"Aleea Constantin Brătescu",,,,way
 "Aleea Constantin Sandu-Aldea",,,,way
 "Aleea Copiilor",,,,way
 "Aleea Costinești",,,,way
@@ -124,7 +121,6 @@ name,source,gender,wikidata,type
 "Aleea Fuiorului",,,,way
 "Aleea Făurei",,,,way
 "Aleea George Cristian Stanciu",,,,way
-"Aleea George Vâlsan",,,,way
 "Aleea Ghencea",,,,way
 "Aleea Ghimeș",,,,way
 "Aleea Ghirlandei",,,,way
@@ -314,14 +310,11 @@ name,source,gender,wikidata,type
 "Aleea Valea Prahovei",,,,way
 "Aleea Valea Roșie",,,,way
 "Aleea Valea Salciei",,,,way
-"Aleea Valea Siretului",,,,way
 "Aleea Valea Viilor",,,,way
 "Aleea Valea lui Mihai",,,,way
 "Aleea Vârful cu Dor",,,,way
 "Aleea Vasile Goldiș",,,,way
-"Aleea Vergului",,,,way
 "Aleea Vicina",,,,way
-"Aleea Victor Iliu",,,,way
 "Aleea Vișana",,,,way
 "Aleea Vlăhița",,,,way
 "Aleea Vlăsiei",,,,way
@@ -339,7 +332,6 @@ name,source,gender,wikidata,type
 "Aleea Țibleș",,,,way
 "Aleea Țincani",,,,way
 "Aleea Țăndărei",,,,way
-"Around park area",,,,way
 "Autostrada Bucuresti - Ploiesti",,,,way
 "Autostrada București-Pitești",,,,way
 "Bulevardul 1 Decembrie 1918",,,,way
@@ -415,7 +407,6 @@ name,source,gender,wikidata,type
 "Bulevardul Mărășești",,,,way
 "Bulevardul Mărăști",,,,way
 "Bulevardul Națiunile Unite",,,,way
-"Bulevardul Nerva Traian",,,,way
 "Bulevardul Nicolae Bălcescu",,,,way
 "Bulevardul Nicolae Grigorescu",,,,way
 "Bulevardul Oaspeților",,,,way
@@ -431,6 +422,7 @@ name,source,gender,wikidata,type
 "Bulevardul Profesor Dimitrie Pompeiu",,,,way
 "Bulevardul Profesor Doctor Gheorghe Marinescu",,,,way
 "Bulevardul Râmnicu Sărat",,,,way
+"Bulevardul „Regele Mihai I”",,,,way
 "Bulevardul Regiei",,,,way
 "Bulevardul Regina Elisabeta",,,,way
 "Bulevardul Regina Maria",,,,way
@@ -472,6 +464,7 @@ DN6D,,,,way
 "Drum Malul cu Flori",,,,way
 "Drum Săbăreni",,,,way
 "Drum radial",,,,way
+"Drum radial 9",,,,way
 "Drumul Agatului",,,,way
 "Drumul Arieș",,,,way
 "Drumul Bacriului",,,,way
@@ -484,7 +477,6 @@ DN6D,,,,way
 "Drumul Cavnic",,,,way
 "Drumul Cheile Turzii",,,,way
 "Drumul Ciorogârla",,,,way
-"Drumul Coasta Cerbului",,,,way
 "Drumul Coasta Grindului",,,,way
 "Drumul Coasta Măgurii",,,,way
 "Drumul Cooperativei",,,,way
@@ -575,11 +567,11 @@ DN6D,,,,way
 "Drumul Nisipoasa",,,,way
 "Drumul Nădlac",,,,way
 "Drumul Odăii",,,,way
+"Drumul Ohaba",,,,way
 "Drumul Opalului",,,,way
 "Drumul Osiei",,,,way
 "Drumul Penteleu",,,,way
 "Drumul Pipirig",,,,way
-"Drumul Piscu Mare",,,,way
 "Drumul Piscu Nou",,,,way
 "Drumul Piscu Radului",,,,way
 "Drumul Piscu Vechi",,,,way
@@ -638,7 +630,8 @@ DN6D,,,,way
 "Drumul Vlașin",,,,way
 "Drumul între Vii",,,,way
 "Drumul la Chiajna",,,,way
-"Drumul la Roșu",,,,way
+"Gencea Cycle Path",,,,way
+"Hospital private parking",,,,way
 "Inel Median",,,,way
 "Intrare Statie Metrou Politehnica",,,,way
 "Intrare in Hala la parter",,,,way
@@ -785,7 +778,6 @@ DN6D,,,,way
 "Intrarea Călătorului",,,,way
 "Intrarea Călțuna",,,,way
 "Intrarea Căpitan Cergă Nicolae",,,,way
-"Intrarea Căpitan David Ionescu",,,,way
 "Intrarea Căpitan Gheorghe Preoțescu",,,,way
 "Intrarea Cărămidăriei",,,,way
 "Intrarea Căscioarele",,,,way
@@ -815,7 +807,6 @@ DN6D,,,,way
 "Intrarea Drumul Taberei",,,,way
 "Intrarea Drăganul",,,,way
 "Intrarea Drăgușa",,,,way
-"Intrarea Dumitru Dragan",,,,way
 "Intrarea Dumitru Drăgan",,,,way
 "Intrarea Dumitru Secăreanu",,,,way
 "Intrarea Dușului",,,,way
@@ -883,7 +874,6 @@ DN6D,,,,way
 "Intrarea Grădiniței",,,,way
 "Intrarea Guliver",,,,way
 "Intrarea Gyorgy Kovacs",,,,way
-"Intrarea Gădinți",,,,way
 "Intrarea Găești",,,,way
 "Intrarea Hârlău",,,,way
 "Intrarea Heliade între Vii",,,,way
@@ -934,9 +924,9 @@ DN6D,,,,way
 "Intrarea Literei",,,,way
 "Intrarea Livezilor",,,,way
 "Intrarea Lobodei",,,,way
-"Intrarea Locotenent Aviator Gheorghe Caranda",,,,way
 "Intrarea Locotenent Colonel Ion Buzoianu",,,,way
 "Intrarea Locotenent Dumitru Lemnea",,,,way
+"Intrarea Lt. Av. Gheorghe Caranda",,,,way
 "Intrarea Lucernei",,,,way
 "Intrarea Luigi Cazzavilan",,,,way
 "Intrarea Lunca Bârzești",,,,way
@@ -973,7 +963,6 @@ DN6D,,,,way
 "Intrarea Monahului",,,,way
 "Intrarea Moneasa",,,,way
 "Intrarea Mostiștea",,,,way
-"Intrarea Movilelor",,,,way
 "Intrarea Moviliței",,,,way
 "Intrarea Moș Nicolae",,,,way
 "Intrarea Muncii",,,,way
@@ -1038,7 +1027,6 @@ DN6D,,,,way
 "Intrarea Poltava",,,,way
 "Intrarea Pomârla",,,,way
 "Intrarea Popa Nan",,,,way
-"Intrarea Popescu Filofteia",,,,way
 "Intrarea Posada",,,,way
 "Intrarea Precupeții Vechi",,,,way
 "Intrarea Prispei",,,,way
@@ -1075,7 +1063,6 @@ DN6D,,,,way
 "Intrarea Rășchița",,,,way
 "Intrarea Sabiței",,,,way
 "Intrarea Safirului",,,,way
-"Intrarea Sagna",,,,way
 "Intrarea Saturn",,,,way
 "Intrarea Scheiului",,,,way
 "Intrarea Schitul Golești",,,,way
@@ -1086,13 +1073,11 @@ DN6D,,,,way
 "Intrarea Securei",,,,way
 "Intrarea Semănătorului",,,,way
 "Intrarea Serdarului",,,,way
-"Intrarea Sergent Augustin Dan",,,,way
 "Intrarea Sergent Constantin Apostol",,,,way
 "Intrarea Sergent Costea Gheorghe",,,,way
 "Intrarea Sergent Ion Barbu",,,,way
 "Intrarea Sergent Ion Panțâru",,,,way
 "Intrarea Sergent Ion Tancu",,,,way
-"Intrarea Sergent Nicolae Dascălu",,,,way
 "Intrarea Sevastopol",,,,way
 "Intrarea Sfântu Sava",,,,way
 "Intrarea Sfatului",,,,way
@@ -1144,6 +1129,7 @@ DN6D,,,,way
 "Intrarea Teleajen",,,,way
 "Intrarea Teremia",,,,way
 "Intrarea Tigveni",,,,way
+"Intrarea Timișoara",,,,way
 "Intrarea Tiparniței",,,,way
 "Intrarea Titan",,,,way
 "Intrarea Tocului",,,,way
@@ -1171,7 +1157,6 @@ DN6D,,,,way
 "Intrarea Valea Albă",,,,way
 "Intrarea Valea Dragului",,,,way
 "Intrarea Valea Lupului",,,,way
-"Intrarea Valea Timișului",,,,way
 "Intrarea Valului",,,,way
 "Intrarea Vârful Plaiului",,,,way
 "Intrarea Varna",,,,way
@@ -1209,7 +1194,6 @@ DN6D,,,,way
 "Intrarea Zlătunoaia",,,,way
 "Intrarea Zmeica",,,,way
 "Intrarea Zorleasca",,,,way
-"Intrarea Șantierului",,,,way
 "Intrarea Școala Herăstrău",,,,way
 "Intrarea Șetrarului",,,,way
 "Intrarea Șimleu",,,,way
@@ -1225,6 +1209,7 @@ DN6D,,,,way
 "Intrarea Țarcului",,,,way
 "Intrarea Țibana",,,,way
 "Intrarea Țiglelor",,,,way
+"La Bălți",,,,way
 "La Stâncărie",,,,way
 Lemnarilor,,,,way
 "Oxford Street",,,,way
@@ -1337,9 +1322,11 @@ Pasarela,,,,way
 "Piața Universității",,,,way
 "Piața Victor Babeș",,,,way
 "Piața Victoriei",,,,way
+"Piațeta Favorit",,,,relation
 "Piațeta Pietonală ""Constantin Brâncuși""",,,,way
 Pipera,,,,relation
 "Pista biciclete Sos. Pipera",,,,way
+"Pod Lunca Priporului",,,,way
 "Pod Teclu",,,,way
 "Podul Barbu Văcărescu",,,,way
 "Podul Ciurel",,,,way
@@ -1361,11 +1348,14 @@ Pipera,,,,relation
 "Podul Vitan-Bârzești",,,,way
 "Podul de Nuc",,,,way
 "Poteca Fluturilor",,,,way
+"Poteca principală",,,,way
 "Prelungirea Ferentari",,,,way
 "Prelungirea Ghencea",,,,way
 "Prelungirea Teslei",,,,way
 "Prisaca Dornei",,,,way
+"Private access road",,,,way
 "Rampa Acces persoane dizabilitati",,,,way
+"Residential private parking access",,,,way
 "Rondul Poarta 4",,,,way
 "Rotonda Președinților UE",,,,way
 "Rotonda Scriitorilor",,,,way
@@ -1375,6 +1365,7 @@ Pipera,,,,relation
 "Sectorului 8",,,,way
 "Splaiul Independenței",,,,way
 "Splaiul Unirii",,,,way
+"Str Confort",,,,way
 "Strada 11 Iunie",,,,way
 "Strada 16 Februarie",,,,way
 "Strada 19 Noiembrie",,,,way
@@ -1483,6 +1474,7 @@ Pipera,,,,relation
 "Strada Amiral Ioan Murgescu",,,,way
 "Strada Amiral Vasile Urseanu",,,,way
 "Strada Amman",,,,way
+"Strada Amos Frâncu",,,,way
 "Strada Amurgului",,,,way
 "Strada Amza Pellea",,,,way
 "Strada Ana Davila",,,,way
@@ -1678,7 +1670,6 @@ Pipera,,,,relation
 "Strada Beclean",,,,way
 "Strada Bega",,,,way
 "Strada Begoniei",,,,way
-"Strada Beirut",,,,way
 "Strada Béla Bartók",,,,way
 "Strada Belgrad",,,,way
 "Strada Belizarie",,,,way
@@ -1783,6 +1774,7 @@ Pipera,,,,relation
 "Strada Bucșoiu",,,,way
 "Strada Budieni",,,,way
 "Strada Budilă",,,,way
+"Strada Buestrului",,,,way
 "Strada Buhuși",,,,way
 "Strada Buiacului",,,,way
 "Strada Buicliu Cristea",,,,way
@@ -1983,7 +1975,6 @@ Pipera,,,,relation
 "Strada Clopoțeilor",,,,way
 "Strada Cloșani",,,,way
 "Strada Clucereasa Elena",,,,way
-"Strada Cluceru Sandu",,,,way
 "Strada Cluceru Udricani",,,,way
 "Strada Clucerului",,,,way
 "Strada Cluj",,,,way
@@ -2612,14 +2603,12 @@ Pipera,,,,relation
 "Strada Foișorului",,,,way
 "Strada Folclorului",,,,way
 "Strada Folescu George",,,,way
-"Strada Fortului",,,,way
 "Strada Fortunei",,,,way
 "Strada Fotino Dionisie",,,,way
 "Strada Fragmentului",,,,way
 "Strada Frânarului",,,,way
 "Strada Franceză",,,,way
 "Strada Francisc Munteanu",,,,way
-"Strada Francu Amos",,,,way
 "Strada Franzelarilor",,,,way
 "Strada Frasinului",,,,way
 "Strada Frâului",,,,way
@@ -2652,7 +2641,6 @@ Pipera,,,,relation
 "Strada Fumureni",,,,way
 "Strada Furculești",,,,way
 "Strada Furnalului",,,,way
-"Strada Furnirului",,,,way
 "Strada Furtunei",,,,way
 "Strada Făcliei",,,,way
 "Strada Făgetului",,,,way
@@ -3290,7 +3278,6 @@ Pipera,,,,relation
 "Strada Lăzăreni",,,,way
 "Strada M.I. Brutus",,,,way
 "Strada Macarie Cântarețul",,,,way
-"Strada Macazului",,,,way
 "Strada Macedonia",,,,way
 "Strada Mache Eftimiu",,,,way
 "Strada Macul Roșu",,,,way
@@ -3347,6 +3334,7 @@ Pipera,,,,relation
 "Strada Marin Calciu",,,,way
 "Strada Marin Constantin",,,,way
 "Strada Marin Drăcea",,,,way
+"Strada Marin Preda",,,,way
 "Strada Marin Serghiescu",,,,way
 "Strada Marin Zamfir",,,,way
 "Strada Marinarilor",,,,way
@@ -3566,6 +3554,7 @@ Pipera,,,,relation
 "Strada Nemira",,,,way
 "Strada Neptun",,,,way
 "Strada Nera",,,,way
+"Strada Nerva Traian",,,,way
 "Strada Niagara",,,,way
 "Strada Nicodim",,,,way
 "Strada Nicolae Apostol",,,,way
@@ -3578,7 +3567,7 @@ Pipera,,,,relation
 "Strada Nicolae Drăganu",,,,way
 "Strada Nicolae Filimon",,,,way
 "Strada Nicolae Filipescu",,,,way
-"Strada Nicolae G. Caramfil",,,,way
+"Strada Nicolae G. Caranfil",,,,way
 "Strada Nicolae Galea",,,,way
 "Strada Nicolae Giuleșteanu",,,,way
 "Strada Nicolae Golescu",,,,way
@@ -3659,7 +3648,6 @@ Pipera,,,,relation
 "Strada Oltețului",,,,way
 "Strada Oltina",,,,way
 "Strada Oltului",,,,way
-"Strada Olănești",,,,way
 "Strada Omului",,,,way
 "Strada Omătului",,,,way
 "Strada Opanez",,,,way
@@ -3797,6 +3785,7 @@ Pipera,,,,relation
 "Strada Piatra Olt",,,,way
 "Strada Piatra Șoimului",,,,way
 "Strada Piața Amzei",,,,way
+"Strada Piața Gara Băneasa",,,,way
 "Strada Piața Morii",,,,way
 "Strada Pichetului",,,,way
 "Strada Pictor Alexandru Romano",,,,way
@@ -3865,7 +3854,7 @@ Pipera,,,,relation
 "Strada Plutonier Petre Ionescu",,,,way
 "Strada Plutonier Radu Gheorghe",,,,way
 "Strada Plăișoru",,,,way
-"Strada Plăticei",,,,way
+"Strada Plăticii",,,,way
 "Strada Podarului",,,,way
 "Strada Podu Ilfovățului",,,,way
 "Strada Podul Corbului",,,,way
@@ -3917,7 +3906,6 @@ Pipera,,,,relation
 "Strada Popa Tatu",,,,way
 "Strada Popa Ștefan",,,,way
 "Strada Popasului",,,,way
-"Strada Popescu Filofteia",,,,way
 "Strada Popescu Gheorghe",,,,way
 "Strada Popescu Stoian",,,,way
 "Strada Popești Vest",,,,way
@@ -4368,7 +4356,6 @@ Pipera,,,,relation
 "Strada Soldat Constantin Ștefan",,,,way
 "Strada Soldat Dumitru Z. Niculae",,,,way
 "Strada Soldat Ene Niță",,,,way
-"Strada Soldat Florea Lazăr",,,,way
 "Strada Soldat Florea Popa",,,,way
 "Strada Soldat Gheorghe Buciumat",,,,way
 "Strada Soldat Gheorghe Florea",,,,way
@@ -4403,7 +4390,6 @@ Pipera,,,,relation
 "Strada Soldat Petre Tunsu",,,,way
 "Strada Soldat Radu Tina",,,,way
 "Strada Soldat Risipitu Samoilă",,,,way
-"Strada Soldat Răduță Gheorghe",,,,way
 "Strada Soldat Stelian N. Mihale",,,,way
 "Strada Soldat Stelian Tomovici",,,,way
 "Strada Soldat Tatu Tudor",,,,way
@@ -4693,7 +4679,6 @@ Pipera,,,,relation
 "Strada Valea Hârtibaciului",,,,way
 "Strada Valea Ialomiței",,,,way
 "Strada Valea Jiului",,,,way
-"Strada Valea Largă",,,,way
 "Strada Valea Lungă",,,,way
 "Strada Valea Mare",,,,way
 "Strada Valea Merilor",,,,way
@@ -4889,7 +4874,6 @@ Pipera,,,,relation
 "Strada Zărnești",,,,way
 "Strada Zătreni",,,,way
 "Strada Zăvoiului",,,,way
-"Strada sub Tei",,,,way
 "Strada Șapte Drumuri",,,,way
 "Strada Șaradei",,,,way
 "Strada Șaru Dornei",,,,way
