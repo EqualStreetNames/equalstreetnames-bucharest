@@ -59,6 +59,7 @@ name,source,gender,wikidata,type
 "Aleea Callatis",,,,way
 "Aleea Câlnău",,,,way
 "Aleea Câmpineanca",,,,way
+"Aleea Câmpul Moșilor",,,,way
 "Aleea Câmpul cu Flori",,,,way
 "Aleea Capidava",,,,way
 "Aleea Carol al II-lea",,,,way
@@ -205,7 +206,6 @@ name,source,gender,wikidata,type
 "Aleea Parva",,,,way
 "Aleea Pasărea De Aur",,,,way
 "Aleea Pasărea Măiastră",,,,way
-"Aleea Pasărea de Aur",,,,way
 "Aleea Pasărea în Văzduh",,,,way
 "Aleea Pașcani",,,,way
 "Aleea Perișoru",,,,way
@@ -484,7 +484,6 @@ DN6D,,,,way
 "Drumul Cristești",,,,way
 "Drumul Crăițelor",,,,way
 "Drumul Dârvari",,,,way
-"Drumul Dealu Aluniș",,,,way
 "Drumul Dealu Babii",,,,way
 "Drumul Dealu Bistrii",,,,way
 "Drumul Dealu Bradului",,,,way
@@ -1347,6 +1346,7 @@ Pipera,,,,relation
 "Podul de Nuc",,,,way
 "Poteca Fluturilor",,,,way
 "Poteca principală",,,,way
+"Prelugirea Ghencea",,,,way
 "Prelungirea Ferentari",,,,way
 "Prelungirea Ghencea",,,,way
 "Prelungirea Teslei",,,,way
