@@ -1,5 +1,7 @@
 name,source,gender,wikidata,type
 "Piața Revoluției",wikidata,,Q204213,relation
+"Piața Universității",wikidata,,Q608338,way
+A2,,,,way
 "Alee / No Name",,,,way
 "Aleea Adjud",,,,way
 "Aleea Agigea",,,,way
@@ -50,6 +52,7 @@ name,source,gender,wikidata,type
 "Aleea Buga",,,,way
 "Aleea Buhuși",,,,way
 "Aleea Buridava",,,,way
+"Aleea Buzoieni",,,,way
 "Aleea Băiculești",,,,way
 "Aleea Băiuț",,,,way
 "Aleea Bărbătești",,,,way
@@ -330,6 +333,7 @@ name,source,gender,wikidata,type
 "Aleea Țibleș",,,,way
 "Aleea Țincani",,,,way
 "Aleea Țăndărei",,,,way
+Andronache,,,,relation
 "Autostrada Bucuresti - Ploiesti",,,,way
 "Autostrada București-Pitești",,,,way
 "Bulevardul 1 Decembrie 1918",,,,way
@@ -1318,13 +1322,13 @@ Pasarela,,,,way
 "Piața Traian",,,,way
 "Piața Tricolorului",,,,way
 "Piața Unirii",,,,way
-"Piața Universității",,,,way
 "Piața Victor Babeș",,,,way
 "Piața Victoriei",,,,way
 "Piațeta Favorit",,,,relation
 "Piațeta Pietonală ""Constantin Brâncuși""",,,,way
 Pipera,,,,relation
 "Pista biciclete Sos. Pipera",,,,way
+"Pistă biciclete+zonă pietonală",,,,way
 "Pod Lunca Priporului",,,,way
 "Pod Teclu",,,,way
 "Podul Barbu Văcărescu",,,,way
@@ -2519,6 +2523,7 @@ Pipera,,,,relation
 "Strada Episcopul Vulcan",,,,way
 "Strada Epurești",,,,way
 "Strada Eretelui",,,,way
+"Strada Ermil Pangrati",,,,way
 "Strada Ermil Pangratti",,,,way
 "Strada Eroii Neamului",,,,way
 "Strada Eroina de la Jiu",,,,way
@@ -2544,7 +2549,6 @@ Pipera,,,,relation
 "Strada Eufrosina Popescu",,,,way
 "Strada Eugen Barbu",,,,way
 "Strada Eugen Lovinescu",,,,way
-"Strada Eugeniu Carada",,,,way
 "Strada Everest",,,,way
 "Strada Evidențiaților",,,,way
 "Strada Existenței",,,,way
@@ -2902,6 +2906,7 @@ Pipera,,,,relation
 "Strada Hățișului",,,,way
 "Strada I.S. Turgheniev",,,,way
 "Strada Iacob Andrei",,,,way
+"Strada Iacob Bologa",,,,way
 "Strada Iacob Negruzzi",,,,way
 "Strada Iacobeni",,,,way
 "Strada Iacobescu Gheorghe",,,,way
@@ -3778,6 +3783,7 @@ Pipera,,,,relation
 "Strada Petuniei",,,,way
 "Strada Peștera Dâmbovicioara",,,,way
 "Strada Peștera Scărișoara",,,,way
+"Strada Peștilor",,,,way
 "Strada Piatra Albă",,,,way
 "Strada Piatra Craiului",,,,way
 "Strada Piatra Morii",,,,way
@@ -4010,7 +4016,7 @@ Pipera,,,,relation
 "Strada Păpușoiului",,,,way
 "Strada Păpădiei",,,,way
 "Strada Părintele Galeriu",,,,way
-"Strada Părintele Stăniloaie",,,,way
+"Strada Părintele Stăniloae",,,,way
 "Strada Părăluțelor",,,,way
 "Strada Păstorului",,,,way
 "Strada Păstrăvilor",,,,way
@@ -4572,6 +4578,7 @@ Pipera,,,,relation
 "Strada Toma Caragiu",,,,way
 "Strada Tomești",,,,way
 "Strada Tomis",,,,way
+"Strada Tonului",,,,way
 "Strada Tony Bulandra",,,,way
 "Strada Topleț",,,,way
 "Strada Topliceanu Vasile",,,,way
