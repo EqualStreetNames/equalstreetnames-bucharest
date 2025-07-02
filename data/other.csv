@@ -336,6 +336,7 @@ A2,,,,way
 Andronache,,,,relation
 "Autostrada Bucuresti - Ploiesti",,,,way
 "Autostrada București-Pitești",,,,way
+"Bretea Provizorie Piata Unirii",,,,way
 "Bulevardul 1 Decembrie 1918",,,,way
 "Bulevardul 1 Mai",,,,way
 "Bulevardul Abatorului",,,,way
@@ -437,7 +438,6 @@ Andronache,,,,relation
 "Bulevardul Unirii",,,,way
 "Bulevardul Uverturii",,,,way
 "Bulevardul Victor Dumitrescu",,,,way
-Băneasa,,,,relation
 "Calea 13 Septembrie",,,,way
 "Calea Apeductului",,,,way
 "Calea Crângași",,,,way
@@ -488,9 +488,7 @@ DN6D,,,,way
 "Drumul Crăițelor",,,,way
 "Drumul Dârvari",,,,way
 "Drumul Dealu Aluniș",,,,way
-"Drumul Dealu Babii",,,,way
 "Drumul Dealu Bistrii",,,,way
-"Drumul Dealu Bradului",,,,way
 "Drumul Dealu Crișului",,,,way
 "Drumul Dealu Cucului",,,,way
 "Drumul Dealu Floreni",,,,way
@@ -4982,7 +4980,6 @@ Tei,,,,relation
 "Șoseaua Morarilor",,,,way
 "Șoseaua Nicolae Titulescu",,,,way
 "Șoseaua Nordului",,,,way
-"Șoseaua Odăi",,,,way
 "Șoseaua Odăii",,,,way
 "Șoseaua Olteniței",,,,way
 "Șoseaua Orhideelor",,,,way
