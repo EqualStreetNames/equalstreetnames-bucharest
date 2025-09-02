@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Piața Revoluției",wikidata,,Q204213,relation
 "Piața Universității",wikidata,,Q608338,way
 A2,,,,way
+"Acces parcare subterana vizitatori si rezidenti Como Park Virtutii 56E",,,,way
 "Alee / No Name",,,,way
 "Aleea Adjud",,,,way
 "Aleea Agigea",,,,way
@@ -1216,6 +1217,7 @@ Lemnarilor,,,,way
 Odei,,,,way
 "Oxford Street",,,,way
 "Pantelimon Vest PO",,,,way
+"Parking access",,,,way
 "Pasaj Băneasa",,,,way
 "Pasaj Colentina",,,,way
 "Pasaj Comedia",,,,way
@@ -1236,7 +1238,6 @@ Odei,,,,way
 "Pasajul Europa Unită",,,,way
 "Pasajul Francez",,,,way
 "Pasajul Gabroveni",,,,way
-"Pasajul Gabroveni-Universal",,,,way
 "Pasajul Latin",,,,way
 "Pasajul Lujerului",,,,way
 "Pasajul Macca - Vilacrosse",,,,way
@@ -1257,6 +1258,8 @@ Odei,,,,way
 Pasarela,,,,way
 "Pasarela pietonală Popești-Leordeni",,,,way
 "Pedestrian Bridge",,,,way
+"Pedestrian access",,,,way
+"Pedestrian access to Como Park Virtutii 56E entrance",,,,way
 "Piața 21 Decembrie 1989",,,,relation
 "Piața Alba Iulia",,,,way
 "Piața Alger",,,,way
