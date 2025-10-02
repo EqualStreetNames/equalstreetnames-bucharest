@@ -1,4 +1,6 @@
 name,source,gender,wikidata,type
+"Piața Revoluției",wikidata,-,Q204213,relation
+"Piața Universității",wikidata,-,Q608338,way
 "Strada Mihaela Ruxandra Marcu",wikidata,F,Q117707205,way
 "Piața Alexandru Lahovari",wikidata,M,Q4252394,way
 "Strada Eugeniu Carada",wikidata,M,Q18538575,way

@@ -1,15 +1,13 @@
 name,source,gender,wikidata,type
-"Piața Revoluției",wikidata,,Q204213,relation
-"Piața Universității",wikidata,,Q608338,way
 A2,,,,way
 "Acces parcare subterana vizitatori si rezidenti Como Park Virtutii 56E",,,,way
-"Alee / No Name",,,,way
 "Aleea Adjud",,,,way
 "Aleea Agigea",,,,way
 "Aleea Alexandru",,,,way
 "Aleea Alexandru Brătescu-Voinești",,,,way
 "Aleea Alexandru Moruzi Voievod",,,,way
 "Aleea Alexandru Tzigara Samurcaș",,,,way
+"Aleea Alexandru cel Bun",,,,way
 "Aleea Aleșd",,,,way
 "Aleea Aliorului",,,,way
 "Aleea Amintirilor",,,,way
@@ -462,6 +460,7 @@ Andronache,,,,relation
 "Calea Văcărești",,,,way
 "Calea Șerban Vodă",,,,way
 "Champs Elysee",,,,way
+"Cheiul Dâmboviței",,,,way
 Chitila-Chiajna,,,,way
 DN6D,,,,way
 "DR10 Măgurele Expres",,,,way
@@ -1216,6 +1215,7 @@ DN6D,,,,way
 Lemnarilor,,,,way
 Odei,,,,way
 "Oxford Street",,,,way
+"Panorama Parcul Natural Văcărești",,,,way
 "Pantelimon Vest PO",,,,way
 "Parking access",,,,way
 "Pasaj Băneasa",,,,way
@@ -3177,6 +3177,7 @@ Pipera,,,,relation
 "Strada Litografiei",,,,way
 "Strada Litoralului",,,,way
 "Strada Litovoi Voievod",,,,way
+"Strada Livada cu Duzi",,,,way
 "Strada Liveni",,,,way
 "Strada Livezilor",,,,way
 "Strada Liviu Rebreanu",,,,way
