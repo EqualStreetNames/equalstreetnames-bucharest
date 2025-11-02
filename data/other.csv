@@ -212,6 +212,7 @@ A2,,,,way
 "Aleea Perișoru",,,,way
 "Aleea Petrăchești",,,,way
 "Aleea Piatra Mare",,,,way
+"Aleea Pictor B'Arg",,,,way
 "Aleea Platanilor",,,,way
 "Aleea Platanului",,,,way
 "Aleea Plenița",,,,way
@@ -353,6 +354,7 @@ Andronache,,,,relation
 "Bulevardul Basarabia",,,,way
 "Bulevardul Beijing",,,,way
 "Bulevardul Biruinței",,,,way
+"Bulevardul Brancoveanu",,,,way
 "Bulevardul Bucureștii Noi",,,,way
 "Bulevardul Burebista",,,,way
 "Bulevardul Camil Ressu",,,,way
@@ -466,7 +468,7 @@ DN6D,,,,way
 "DR10 Măgurele Expres",,,,way
 "Drum Malul cu Flori",,,,way
 "Drum Săbăreni",,,,way
-"Drum radial",,,,way
+"Drum radial 1",,,,way
 "Drum radial 9",,,,way
 "Drumul Agatului",,,,way
 "Drumul Arieș",,,,way
@@ -1327,6 +1329,7 @@ Pasarela,,,,way
 "Piața Victor Babeș",,,,way
 "Piața Victoriei",,,,way
 "Piațeta Favorit",,,,relation
+"Piațeta Lânăriei",,,,way
 "Piațeta Pietonală ""Constantin Brâncuși""",,,,way
 Pipera,,,,relation
 "Pista biciclete Sos. Pipera",,,,way
@@ -1362,6 +1365,7 @@ Pipera,,,,relation
 "Private access road",,,,way
 "Rampa Acces persoane dizabilitati",,,,way
 "Residential private parking access",,,,way
+"Rondul Bicicliștilor",,,,way
 "Rondul Poarta 4",,,,way
 "Rotonda Președinților UE",,,,way
 "Rotonda Scriitorilor",,,,way
@@ -2046,7 +2050,7 @@ Pipera,,,,relation
 "Strada Constantin Noica",,,,way
 "Strada Constantin Nottara",,,,way
 "Strada Constantin Pavel",,,,way
-"Strada Constantin Rădulescu Motru",,,,way
+"Strada Constantin Rădulescu-Motru",,,,way
 "Strada Constantin Sandu-Aldea",,,,way
 "Strada Constantin Stere",,,,way
 "Strada Constantin Titel Petrescu",,,,way
@@ -3574,7 +3578,7 @@ Pipera,,,,relation
 "Strada Nicolae Drăganu",,,,way
 "Strada Nicolae Filimon",,,,way
 "Strada Nicolae Filipescu",,,,way
-"Strada Nicolae G. Caranfil",,,,way
+"Strada Nicolae G. Caramfil",,,,way
 "Strada Nicolae Galea",,,,way
 "Strada Nicolae Giuleșteanu",,,,way
 "Strada Nicolae Golescu",,,,way
@@ -4316,7 +4320,6 @@ Pipera,,,,relation
 "Strada Sighișoara",,,,way
 "Strada Silexului",,,,way
 "Strada Silfidelor",,,,way
-"Strada Siliștea",,,,way
 "Strada Silozului",,,,way
 "Strada Silvestri Constantin",,,,way
 "Strada Silvestru",,,,way
@@ -4458,6 +4461,7 @@ Pipera,,,,relation
 "Strada Stoicănești",,,,way
 "Strada Stolnici",,,,way
 "Strada Stolnicu Vasile",,,,way
+"Strada Stolnicul Vasile",,,,way
 "Strada Stolnicului",,,,way
 "Strada Straja",,,,way
 "Strada Strehaia",,,,way
@@ -4980,7 +4984,6 @@ Tei,,,,relation
 "Șoseaua Grozăvești",,,,way
 "Șoseaua Gării Cățelu",,,,way
 "Șoseaua Iancului",,,,way
-"Șoseaua Libertății",,,,way
 "Șoseaua Mihai Bravu",,,,way
 "Șoseaua Morarilor",,,,way
 "Șoseaua Nicolae Titulescu",,,,way
