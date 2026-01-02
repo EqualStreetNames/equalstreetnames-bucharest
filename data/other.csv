@@ -1,6 +1,8 @@
 name,source,gender,wikidata,type
 A2,,,,way
 "Acces parcare subterana vizitatori si rezidenti Como Park Virtutii 56E",,,,way
+"Alee terminal Bd. Basarabia",,,,way
+"Alee terminal Depoul Alexandria",,,,way
 "Aleea Adjud",,,,way
 "Aleea Agigea",,,,way
 "Aleea Alexandru",,,,way
@@ -467,12 +469,13 @@ Chitila-Chiajna,,,,way
 DN6D,,,,way
 "DR10 Măgurele Expres",,,,way
 "Drum Malul cu Flori",,,,way
-"Drum Săbăreni",,,,way
 "Drum radial 1",,,,way
+"Drum radial 4",,,,way
 "Drum radial 9",,,,way
 "Drumul Agatului",,,,way
 "Drumul Arieș",,,,way
 "Drumul Bacriului",,,,way
+"Drumul Balta Doamnei",,,,way
 "Drumul Belșugului",,,,way
 "Drumul Bercenarului",,,,way
 "Drumul Binelui",,,,way
@@ -569,7 +572,6 @@ DN6D,,,,way
 "Drumul Nicolae Șuțu",,,,way
 "Drumul Nisipoasa",,,,way
 "Drumul Nădlac",,,,way
-"Drumul Odăii",,,,way
 "Drumul Ohaba",,,,way
 "Drumul Opalului",,,,way
 "Drumul Osiei",,,,way
@@ -850,6 +852,7 @@ DN6D,,,,way
 "Intrarea Făurești",,,,way
 "Intrarea Galați",,,,way
 "Intrarea Galenei",,,,way
+"Intrarea Garoafei",,,,way
 "Intrarea Gazonului",,,,way
 "Intrarea General Christian Tell",,,,way
 "Intrarea General Doctor Emanoil Mihail Severin",,,,way
@@ -1046,6 +1049,7 @@ DN6D,,,,way
 "Intrarea Pătuleni",,,,way
 "Intrarea Păuliș",,,,way
 "Intrarea Pășunilor",,,,way
+"Intrarea Racoș",,,,way
 "Intrarea Radu Chirițescu",,,,way
 "Intrarea Râmnic",,,,way
 "Intrarea Râmnicu Vâlcea",,,,way
@@ -1242,6 +1246,7 @@ Odei,,,,way
 "Pasajul Gabroveni",,,,way
 "Pasajul Latin",,,,way
 "Pasajul Lujerului",,,,way
+"Pasajul Macca",,,,way
 "Pasajul Macca - Vilacrosse",,,,way
 "Pasajul Mihai Bravu",,,,way
 "Pasajul Mărășești",,,,way
@@ -1334,7 +1339,6 @@ Pasarela,,,,way
 "Piațeta Pietonală ""Constantin Brâncuși""",,,,way
 Pipera,,,,relation
 "Pista biciclete Sos. Pipera",,,,way
-"Pistă biciclete+zonă pietonală",,,,way
 "Pod Lunca Priporului",,,,way
 "Pod Teclu",,,,way
 "Podul Barbu Văcărescu",,,,way
@@ -1364,6 +1368,7 @@ Pipera,,,,relation
 "Prelungirea Teslei",,,,way
 "Prisaca Dornei",,,,way
 "Private access road",,,,way
+"Promenada Comunei Chiajna",,,,way
 "Rampa Acces persoane dizabilitati",,,,way
 "Residential private parking access",,,,way
 "Rondul Bicicliștilor",,,,way
@@ -1699,7 +1704,6 @@ Pipera,,,,relation
 "Strada Biborțeni",,,,way
 "Strada Biharia",,,,way
 "Strada Bihor",,,,way
-"Strada Bijuteria / Pasajul Macca",,,,way
 "Strada Bilciurești",,,,way
 "Strada Biruinței",,,,way
 "Strada Biserica Alexe",,,,way
@@ -1975,7 +1979,6 @@ Pipera,,,,relation
 "Strada Ciuleandra",,,,way
 "Strada Ciulnița",,,,way
 "Strada Ciurea",,,,way
-"Strada Ciurel",,,,way
 "Strada Cladova",,,,way
 "Strada Claudiu",,,,way
 "Strada Clejani",,,,way
@@ -4010,7 +4013,6 @@ Pipera,,,,relation
 "Strada Puțul cu Roată",,,,way
 "Strada Puțul cu Tei",,,,way
 "Strada Puțul de Piatră",,,,way
-"Strada Puțul lui Crăciun",,,,way
 "Strada Puțul lui Zamfir",,,,way
 "Strada Pădurarilor",,,,way
 "Strada Pădurea Craiului",,,,way
@@ -4106,7 +4108,6 @@ Pipera,,,,relation
 "Strada Ricinului",,,,way
 "Strada Rinocerului",,,,way
 "Strada Ripiceni",,,,way
-"Strada Ristea Ion",,,,way
 "Strada Ritmului",,,,way
 "Strada Ritoride",,,,way
 "Strada Robănești",,,,way
@@ -4179,7 +4180,6 @@ Pipera,,,,relation
 "Strada Sabinelor",,,,way
 "Strada Sadinei",,,,way
 "Strada Sadului",,,,way
-"Strada Sala Palatului",,,,way
 "Strada Salcâmilor",,,,way
 "Strada Salciilor",,,,way
 "Strada Salcutei",,,,way
@@ -4361,7 +4361,6 @@ Pipera,,,,relation
 "Strada Socolești",,,,way
 "Strada Sofia",,,,way
 "Strada Sold. Ion Gh. Ion",,,,way
-"Strada Sold. Ion Ristea",,,,way
 "Strada Soldat Adrian Cârstea",,,,way
 "Strada Soldat Adrian Pătru",,,,way
 "Strada Soldat Alexandru Magatti",,,,way
@@ -4404,6 +4403,7 @@ Pipera,,,,relation
 "Strada Soldat Petre Tunsu",,,,way
 "Strada Soldat Radu Tina",,,,way
 "Strada Soldat Risipitu Samoilă",,,,way
+"Strada Soldat Ristea Ion",,,,way
 "Strada Soldat Stelian N. Mihale",,,,way
 "Strada Soldat Stelian Tomovici",,,,way
 "Strada Soldat Tatu Tudor",,,,way
@@ -4420,6 +4420,7 @@ Pipera,,,,relation
 "Strada Sonia Cluceru",,,,way
 "Strada Soreni",,,,way
 "Strada Soveja",,,,way
+"Strada Spartachiadei",,,,way
 "Strada Spartacus",,,,way
 "Strada Spațiului",,,,way
 "Strada Speranței",,,,way
@@ -4631,6 +4632,7 @@ Pipera,,,,relation
 "Strada Tudor Mihai",,,,way
 "Strada Tudor Nicolae",,,,way
 "Strada Tudor Vianu",,,,way
+"Strada Tudor Vladimirescu",,,,way
 "Strada Tufanilor",,,,way
 "Strada Tufelor",,,,way
 "Strada Tufișului",,,,way
@@ -4951,14 +4953,10 @@ Pipera,,,,relation
 "Strada Ținutului",,,,way
 "Strada Țărmului",,,,way
 "Strada Țărăncuței",,,,way
-"Strapungerea Ciurel-A1 (AC anulat in Justitie)",,,,way
-"Strapungerea Ciurel-A1 (varianta de studiu)",,,,way
+"Străpungerea Ciurel-A1 (AC anulat în justiție)",,,,way
 "Sunset Boulevard",,,,way
 Tei,,,,relation
 "Trecere neamenajată",,,,way
-"Varianta 1",,,,way
-"Varianta 1&2",,,,way
-"Varianta 2",,,,way
 "Velodrom Dinamo",,,,way
 "Șoseaua Alexandria",,,,way
 "Șoseaua Alexandriei",,,,way
