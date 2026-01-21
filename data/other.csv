@@ -1,7 +1,6 @@
 name,source,gender,wikidata,type
 A2,,,,way
 "Acces parcare subterana vizitatori si rezidenti Como Park Virtutii 56E",,,,way
-"Alee terminal Bd. Basarabia",,,,way
 "Alee terminal Depoul Alexandria",,,,way
 "Aleea Adjud",,,,way
 "Aleea Agigea",,,,way
@@ -746,7 +745,6 @@ DN6D,,,,way
 "Intrarea Ciuruleasa",,,,way
 "Intrarea Ciurului",,,,way
 "Intrarea Ciutei",,,,way
-"Intrarea Clopotului",,,,way
 "Intrarea Clăilor",,,,way
 "Intrarea Cobadin",,,,way
 "Intrarea Cobiliței",,,,way
@@ -1326,6 +1324,7 @@ Pasarela,,,,way
 "Piața Romană",,,,way
 "Piața Rosetti",,,,relation+way
 "Piața Sf. Anton",,,,way
+"Piața Sf. Vineri",,,,way
 "Piața Sfântul Ștefan",,,,way
 "Piața Sfinții Voievozi",,,,way
 "Piața Spania",,,,way
@@ -1369,11 +1368,11 @@ Pipera,,,,relation
 "Prisaca Dornei",,,,way
 "Private access road",,,,way
 "Promenada Comunei Chiajna",,,,way
+"Părinții fondatori ai Uniunii Europene",,,,way
 "Rampa Acces persoane dizabilitati",,,,way
 "Residential private parking access",,,,way
 "Rondul Bicicliștilor",,,,way
 "Rondul Poarta 4",,,,way
-"Rotonda Președinților UE",,,,way
 "Rotonda Scriitorilor",,,,way
 "Scările Fericirii",,,,way
 "Sectorului 10",,,,way
@@ -2496,7 +2495,6 @@ Pipera,,,,relation
 "Strada Eforiei",,,,way
 "Strada Eftimie Murgu",,,,way
 "Strada Elanului",,,,way
-"Strada Elbrus",,,,way
 "Strada Elegiei",,,,way
 "Strada Elena",,,,way
 "Strada Elena Caragiani",,,,way
@@ -3919,8 +3917,6 @@ Pipera,,,,relation
 "Strada Popa Savu",,,,way
 "Strada Popa Soare",,,,way
 "Strada Popa Stoica Farcaș",,,,way
-"Strada Popa Stoica Fărcaș",,,,way
-"Strada Popa Stoica din Fărcaș",,,,way
 "Strada Popa Tatu",,,,way
 "Strada Popa Ștefan",,,,way
 "Strada Popasului",,,,way
