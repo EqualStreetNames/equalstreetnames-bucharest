@@ -745,6 +745,7 @@ DN6D,,,,way
 "Intrarea Ciuruleasa",,,,way
 "Intrarea Ciurului",,,,way
 "Intrarea Ciutei",,,,way
+"Intrarea Clopoțeilor",,,,way
 "Intrarea Clăilor",,,,way
 "Intrarea Cobadin",,,,way
 "Intrarea Cobiliței",,,,way
@@ -1233,6 +1234,7 @@ Odei,,,,way
 "Pasaj Victoriei",,,,way
 "Pasaj pietonal",,,,way
 "Pasaj pietonal sub Pasaj Aviatiei",,,,way
+"Pasajul Apărătorii Patriei",,,,way
 "Pasajul Basarab",,,,way
 "Pasajul Berceni",,,,way
 "Pasajul Ciurel",,,,way
@@ -1277,7 +1279,6 @@ Pasarela,,,,way
 "Piața Bucur",,,,way
 "Piața Buzești",,,,way
 "Piața C. A. Rosetti",,,,way
-"Piața Cantacuzino",,,,way
 "Piața Charles de Gaulle",,,,way
 "Piața Concordiei",,,,way
 "Piața Constituției",,,,way
@@ -1295,6 +1296,7 @@ Pasarela,,,,way
 "Piața General Gheorghe Angelescu",,,,way
 "Piața General Nicolae Dabija",,,,way
 "Piața George Enescu",,,,way
+"Piața Gheorghe Cantacuzino",,,,way
 "Piața Gării de Nord",,,,way
 "Piața Haralambie Botescu",,,,way
 "Piața Iancului",,,,way
@@ -1984,7 +1986,6 @@ Pipera,,,,relation
 "Strada Clopotarii Vechi",,,,way
 "Strada Clopotiva",,,,way
 "Strada Clopotului",,,,way
-"Strada Clopoțeilor",,,,way
 "Strada Cloșani",,,,way
 "Strada Clucereasa Elena",,,,way
 "Strada Cluceru Udricani",,,,way
@@ -2495,6 +2496,7 @@ Pipera,,,,relation
 "Strada Eforiei",,,,way
 "Strada Eftimie Murgu",,,,way
 "Strada Elanului",,,,way
+"Strada Elbrus",,,,way
 "Strada Elegiei",,,,way
 "Strada Elena",,,,way
 "Strada Elena Caragiani",,,,way
@@ -2699,6 +2701,7 @@ Pipera,,,,relation
 "Strada General Culcer V. Ioan",,,,way
 "Strada General David Praporgescu",,,,way
 "Strada General Dimitrie Salmen",,,,way
+"Strada General Doctor Mihail Butoianu",,,,way
 "Strada General Eraclie Arion",,,,way
 "Strada General Eremia Grigorescu",,,,way
 "Strada General Ernest Broșteanu",,,,way
@@ -2980,6 +2983,7 @@ Pipera,,,,relation
 "Strada Inovatorilor",,,,way
 "Strada Inspirației",,,,way
 "Strada Institutul Medico-Militar",,,,way
+"Strada Intrarea Versului",,,,way
 "Strada Între Gârle",,,,way
 "Strada Întrecerii",,,,way
 "Strada Inului",,,,way
@@ -3556,8 +3560,8 @@ Pipera,,,,relation
 "Strada Neamului",,,,way
 "Strada Neatârnării",,,,way
 "Strada Nedeia",,,,way
-"Strada Negoita Târgovișteanu",,,,way
 "Strada Negoiu",,,,way
+"Strada Negoiță Târgovișteanu",,,,way
 "Strada Negostina",,,,way
 "Strada Negru Vodă",,,,way
 "Strada Negulescu Petre",,,,way
@@ -4009,6 +4013,7 @@ Pipera,,,,relation
 "Strada Puțul cu Roată",,,,way
 "Strada Puțul cu Tei",,,,way
 "Strada Puțul de Piatră",,,,way
+"Strada Puțul lui Crăciun",,,,way
 "Strada Puțul lui Zamfir",,,,way
 "Strada Pădurarilor",,,,way
 "Strada Pădurea Craiului",,,,way
@@ -4757,7 +4762,6 @@ Pipera,,,,relation
 "Strada Verigei",,,,way
 "Strada Verii",,,,way
 "Strada Veronica Micle",,,,way
-"Strada Versului",,,,way
 "Strada Verzișori",,,,way
 "Strada Veseliei",,,,way
 "Strada Vespasian",,,,way
