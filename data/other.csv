@@ -66,7 +66,6 @@ A2,,,,way
 "Aleea Capidava",,,,way
 "Aleea Carol al II-lea",,,,way
 "Aleea Castanilor",,,,way
-"Aleea Centrală Parcul Carol",,,,way
 "Aleea Cenușăresei",,,,way
 "Aleea Ceptura",,,,way
 "Aleea Cetatea Veche",,,,way
@@ -87,7 +86,6 @@ A2,,,,way
 "Aleea Covasna",,,,way
 "Aleea Cozia",,,,way
 "Aleea Craiovița",,,,way
-"Aleea Crevedia",,,,way
 "Aleea Crețulescu",,,,way
 "Aleea Cricovul Dulce",,,,way
 "Aleea Cricovul Sărat",,,,way
@@ -160,7 +158,6 @@ A2,,,,way
 "Aleea Lacului",,,,way
 "Aleea Lacului Cișmigiu",,,,way
 "Aleea Lagos",,,,way
-"Aleea Lamotești",,,,way
 "Aleea Leda",,,,way
 "Aleea Leorda",,,,way
 "Aleea Lerești",,,,way
@@ -646,7 +643,7 @@ DN6D,,,,way
 "Drumul Zăplazului",,,,way
 "Drumul între Vii",,,,way
 "Drumul la Chiajna",,,,way
-"Gencea Cycle Path",,,,way
+"Ghencea Cycle Path",,,,way
 "Gheorghe Titeica",,,,way
 "Inel Median",,,,way
 "Intrare Statie Metrou Politehnica",,,,way
@@ -1220,7 +1217,6 @@ DN6D,,,,way
 "Intrarea Ștefan Burcuș",,,,way
 "Intrarea Ștefan Furtună",,,,way
 "Intrarea Ștefan Vodă",,,,way
-"Intrarea Ștefănești",,,,way
 "Intrarea Știrbei Vodă",,,,way
 "Intrarea Știucii",,,,way
 "Intrarea Șuerului",,,,way
@@ -1230,17 +1226,18 @@ DN6D,,,,way
 "La Bălți",,,,way
 "La Potcoavă",,,,way
 "La Stâncărie",,,,way
+"La Șahiști",,,,way
 Lemnarilor,,,,way
 Odei,,,,way
 "Oxford Street",,,,way
 "Panorama Parcul Natural Văcărești",,,,way
 "Pantelimon Vest PO",,,,way
 "Parking access",,,,way
+"Parterul Central",,,,way
 "Parterul central",,,,way
 "Pasaj Băneasa",,,,way
 "Pasaj Colentina",,,,way
 "Pasaj Comedia",,,,way
-"Pasaj Crângași",,,,way
 "Pasaj Eroii Revolutiei",,,,way
 "Pasaj Majestic",,,,way
 "Pasaj Metrou Eroii Revolutiei",,,,way
@@ -1343,7 +1340,6 @@ Odei,,,,way
 "Piața Sfântul Ștefan",,,,way
 "Piața Sfinții Voievozi",,,,way
 "Piața Spania",,,,way
-"Piața Traian",,,,way
 "Piața Tricolorului",,,,way
 "Piața Unirii",,,,way
 "Piața Victor Babeș",,,,way
@@ -2461,7 +2457,6 @@ Pipera,,,,relation
 "Strada Dumitrescu Vasile",,,,way
 "Strada Dumitru Badea",,,,way
 "Strada Dumitru Botez",,,,way
-"Strada Dumitru Brumarescu",,,,way
 "Strada Dumitru Brumărescu",,,,way
 "Strada Dumitru Drăgan",,,,way
 "Strada Dumitru Florescu",,,,way
@@ -2627,6 +2622,7 @@ Pipera,,,,relation
 "Strada Foișorului",,,,way
 "Strada Folclorului",,,,way
 "Strada Folescu George",,,,way
+"Strada Fortului",,,,way
 "Strada Fortunei",,,,way
 "Strada Fotino Dionisie",,,,way
 "Strada Fragmentului",,,,way
@@ -3537,7 +3533,6 @@ Pipera,,,,relation
 "Strada Mălinului",,,,way
 "Strada Mălureni",,,,way
 "Strada Mămulari",,,,way
-"Strada Mănăstirea Agapia",,,,way
 "Strada Mănăstirea Dealul",,,,way
 "Strada Mănăstirea Horezu",,,,way
 "Strada Mănăstirea Neamț",,,,way
@@ -3847,6 +3842,7 @@ Pipera,,,,relation
 "Strada Piotr Ilici Ceaikovski",,,,way
 "Strada Piramidei",,,,way
 "Strada Pirotehniei",,,,way
+"Strada Piscu Vechi",,,,way
 "Strada Piscul Crășani",,,,way
 "Strada Piscul Răchitei",,,,way
 "Strada Piscul Scoarței",,,,way
@@ -4967,6 +4963,7 @@ Pipera,,,,relation
 "Străpungerea Ciurel-A1 (în studiu)",,,,way
 "Sunset Boulevard",,,,way
 Tei,,,,relation
+"The Meadows",,,,way
 "Trecere neamenajată",,,,way
 "Șoseaua Alexandria",,,,way
 "Șoseaua Alexandriei",,,,way
