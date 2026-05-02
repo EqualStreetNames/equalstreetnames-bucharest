@@ -177,6 +177,7 @@ A2,,,,way
 "Aleea Lăcrămioarei",,,,way
 "Aleea Macilor",,,,way
 "Aleea Magnoliei",,,,way
+"Aleea Mara",,,,way
 "Aleea Marius Emanoil Buteică",,,,way
 "Aleea Masa Tăcerii",,,,way
 "Aleea Matei Basarab",,,,way
@@ -267,14 +268,15 @@ A2,,,,way
 "Aleea Sargeția",,,,way
 "Aleea Scroviștea",,,,way
 "Aleea Secuilor",,,,way
+"Aleea Serg. Maj. Emil Holut",,,,way
 "Aleea Sibiana",,,,way
 "Aleea Siliștea",,,,way
 "Aleea Sinaia",,,,way
+"Aleea Slt. Adrian Cîrstea",,,,way
 "Aleea Slătioara",,,,way
 "Aleea Snagov",,,,way
 "Aleea Soarelui",,,,way
 "Aleea Socului",,,,way
-"Aleea Soldat Adrian Cârstea",,,,way
 "Aleea Soldat Barbu Nicolae",,,,way
 "Aleea Solidarității",,,,way
 "Aleea Someșul Cald",,,,way
@@ -287,6 +289,7 @@ A2,,,,way
 "Aleea Stogu",,,,way
 "Aleea Stupilor",,,,way
 "Aleea Stănilă",,,,way
+"Aleea Sublocotenent Adrian Cârstea",,,,way
 "Aleea Sucidava",,,,way
 "Aleea Suraia",,,,way
 "Aleea Suter",,,,way
@@ -343,6 +346,7 @@ A2,,,,way
 "Aleea Țibleș",,,,way
 "Aleea Țincani",,,,way
 "Aleea Țăndărei",,,,way
+Amman,,,,way
 Andronache,,,,relation
 "Anton Holban",,,,way
 "Autostrada Bucuresti - Ploiesti",,,,way
@@ -454,6 +458,7 @@ Andronache,,,,relation
 "Calea Apeductului",,,,way
 "Calea Crângași",,,,way
 "Calea Călărașilor",,,,way
+"Calea Dorobanți",,,,way
 "Calea Dorobanților",,,,way
 "Calea Dudești",,,,way
 "Calea Ferentari",,,,way
@@ -665,6 +670,7 @@ DN6D,,,,way
 "Intrarea Anestinelor",,,,way
 "Intrarea Aniversării",,,,way
 "Intrarea Antenei",,,,way
+"Intrarea Anton Bacalbaşa",,,,way
 "Intrarea Arenei",,,,way
 "Intrarea Argeaua",,,,way
 "Intrarea Argintului",,,,way
@@ -949,6 +955,7 @@ DN6D,,,,way
 "Intrarea Luptătorilor Antifasciști",,,,way
 "Intrarea Maior Câmpeanu Alexandru",,,,way
 "Intrarea Maliuc",,,,way
+"Intrarea Mandarinei",,,,way
 "Intrarea Mandolinei",,,,way
 "Intrarea Mangalia",,,,way
 "Intrarea Manganului",,,,way
@@ -2646,6 +2653,7 @@ Pipera,,,,relation
 "Strada Fructelor",,,,way
 "Strada Frumoasă",,,,way
 "Strada Frumușani",,,,way
+"Strada Fruntaș Anghel Mihail",,,,way
 "Strada Fruntaș Constantin Tudor",,,,way
 "Strada Fruntaș Gheorghe Rostogolea",,,,way
 "Strada Fruntaș Marinescu Nicolae",,,,way
@@ -4368,7 +4376,6 @@ Pipera,,,,relation
 "Strada Socolești",,,,way
 "Strada Sofia",,,,way
 "Strada Sold. Ion Gh. Ion",,,,way
-"Strada Soldat Adrian Cârstea",,,,way
 "Strada Soldat Adrian Pătru",,,,way
 "Strada Soldat Alexandru Magatti",,,,way
 "Strada Soldat Bara Savu",,,,way
@@ -4758,6 +4765,7 @@ Pipera,,,,relation
 "Strada Vatra Luminoasă",,,,way
 "Strada Vașcău",,,,way
 "Strada Vedea",,,,way
+"Strada Vegetației",,,,way
 "Strada Velei",,,,way
 "Strada Velinței",,,,way
 "Strada Venezuela",,,,way
@@ -4965,6 +4973,7 @@ Pipera,,,,relation
 Tei,,,,relation
 "The Meadows",,,,way
 "Trecere neamenajată",,,,way
+"fosta pasarelă pietonală Gara Obor",,,,way
 "Șoseaua Alexandria",,,,way
 "Șoseaua Alexandriei",,,,way
 "Șoseaua Andronache",,,,way
