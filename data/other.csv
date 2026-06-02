@@ -1,6 +1,5 @@
 name,source,gender,wikidata,type
 A2,,,,way
-"Acces parcare subterana vizitatori si rezidenti Como Park Virtutii 56E",,,,way
 "Alee terminal Depoul Alexandria",,,,way
 "Aleea Adjud",,,,way
 "Aleea Agigea",,,,way
@@ -247,7 +246,6 @@ A2,,,,way
 "Aleea Privighetorilor",,,,way
 "Aleea Pupăza cu Moț",,,,way
 "Aleea Păcală",,,,way
-"Aleea Pădurea Craiului",,,,way
 "Aleea Păpușa",,,,way
 "Aleea Pătulului",,,,way
 "Aleea Râmnicel",,,,way
@@ -351,7 +349,6 @@ Andronache,,,,relation
 "Anton Holban",,,,way
 "Autostrada Bucuresti - Ploiesti",,,,way
 "Autostrada București-Pitești",,,,way
-"Bretea Provizorie Piața Unirii",,,,way
 "Bulevardul 1 Decembrie 1918",,,,way
 "Bulevardul 1 Mai",,,,way
 "Bulevardul Abatorului",,,,way
@@ -1008,6 +1005,7 @@ DN6D,,,,way
 "Intrarea Nicolae Șelari",,,,way
 "Intrarea Nicorești",,,,way
 "Intrarea Niky Atanasiu",,,,way
+"Intrarea Nopții",,,,way
 "Intrarea Năruja",,,,way
 "Intrarea Odobești",,,,way
 "Intrarea Ogradei",,,,way
@@ -1239,7 +1237,6 @@ Odei,,,,way
 "Oxford Street",,,,way
 "Panorama Parcul Natural Văcărești",,,,way
 "Pantelimon Vest PO",,,,way
-"Parking access",,,,way
 "Parterul Central",,,,way
 "Parterul central",,,,way
 "Pasaj Băneasa",,,,way
@@ -1339,7 +1336,7 @@ Odei,,,,way
 "Piața Quito",,,,way
 "Piața Regina Maria",,,,way
 "Piața Reșița",,,,way
-"Piața Roma",,,,way
+"Piața Roma",,,,relation
 "Piața Romană",,,,way
 "Piața Rosetti",,,,relation+way
 "Piața Sf. Anton",,,,way
@@ -2323,6 +2320,7 @@ Pipera,,,,relation
 "Strada Dimitrie Orbescu",,,,way
 "Strada Dimitrie Paciurea",,,,way
 "Strada Dimitrie Racoviță",,,,way
+"Strada Dimitrie Stelaru",,,,way
 "Strada Dinu Lipatti",,,,way
 "Strada Dinu Vintilă",,,,way
 "Strada Diocheți",,,,way
@@ -3419,7 +3417,6 @@ Pipera,,,,relation
 "Strada Mihai Vodă",,,,way
 "Strada Mihail Calinici",,,,way
 "Strada Mihail Cioranu",,,,way
-"Strada Mihail Eustațiu",,,,way
 "Strada Mihail Foișoreanu",,,,way
 "Strada Mihail Ilie",,,,way
 "Strada Mihail Ivanovici Glinka",,,,way
@@ -3747,7 +3744,6 @@ Pipera,,,,relation
 "Strada Pascal Cristian, Inginer",,,,way
 "Strada Pasului",,,,way
 "Strada Pasărea",,,,way
-"Strada Patriarhiei",,,,way
 "Strada Patriei",,,,way
 "Strada Patrioților",,,,way
 "Strada Paul Greceanu",,,,way
@@ -4378,6 +4374,7 @@ Pipera,,,,relation
 "Strada Sold. Ion Gh. Ion",,,,way
 "Strada Soldat Adrian Pătru",,,,way
 "Strada Soldat Alexandru Magatti",,,,way
+"Strada Soldat Anghel Ghețu",,,,way
 "Strada Soldat Bara Savu",,,,way
 "Strada Soldat Coman Ion",,,,way
 "Strada Soldat Constantin Ștefan",,,,way
@@ -4872,6 +4869,7 @@ Pipera,,,,relation
 "Strada Zaharia Carcalechi",,,,way
 "Strada Zalelor",,,,way
 "Strada Zalău",,,,way
+"Strada Zâmbetului",,,,way
 "Strada Zambilelor",,,,way
 "Strada Zamfir Olaru",,,,way
 "Strada Zamora",,,,way
@@ -4972,6 +4970,7 @@ Pipera,,,,relation
 "Sunset Boulevard",,,,way
 Tei,,,,relation
 "The Meadows",,,,way
+Tineretului,,,,relation
 "Trecere neamenajată",,,,way
 "fosta pasarelă pietonală Gara Obor",,,,way
 "Șoseaua Alexandria",,,,way
