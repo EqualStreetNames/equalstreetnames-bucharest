@@ -199,6 +199,7 @@ A2,,,,way
 "Aleea Nehoiu",,,,way
 "Aleea Niculițel",,,,way
 "Aleea Ninsorii",,,,way
+"Aleea Norilor",,,,way
 "Aleea Nucului",,,,way
 "Aleea Obcina Mica",,,,way
 "Aleea Oituz",,,,way
@@ -769,6 +770,7 @@ DN6D,,,,way
 "Intrarea Colierului",,,,way
 "Intrarea Colții Brezei",,,,way
 "Intrarea Colții Morarului",,,,way
+"Intrarea Colțului",,,,way
 "Intrarea Comisul Buzincă",,,,way
 "Intrarea Comănești",,,,way
 "Intrarea Concursului",,,,way
@@ -857,6 +859,7 @@ DN6D,,,,way
 "Intrarea Frumușița",,,,way
 "Intrarea Frunzei",,,,way
 "Intrarea Fulgilor",,,,way
+"Intrarea Fumăriței",,,,way
 "Intrarea Fundeni",,,,way
 "Intrarea Făgețelu",,,,way
 "Intrarea Fărcășanca",,,,way
@@ -919,7 +922,6 @@ DN6D,,,,way
 "Intrarea Iulia Hașdeu",,,,way
 "Intrarea Ivan Vladimirovici Miciurin",,,,way
 "Intrarea Izvorani",,,,way
-"Intrarea Jariștea",,,,way
 "Intrarea Jarului",,,,way
 "Intrarea Jean Georgescu",,,,way
 "Intrarea Jibou",,,,way
@@ -980,6 +982,7 @@ DN6D,,,,way
 "Intrarea Moinești",,,,way
 "Intrarea Monahului",,,,way
 "Intrarea Moneasa",,,,way
+"Intrarea Monolitului",,,,way
 "Intrarea Mostiștea",,,,way
 "Intrarea Moviliței",,,,way
 "Intrarea Moș Nicolae",,,,way
@@ -1157,6 +1160,7 @@ DN6D,,,,way
 "Intrarea Toporași",,,,way
 "Intrarea Traian Demetrescu",,,,way
 "Intrarea Trei Brazi",,,,way
+"Intrarea Trestiana",,,,way
 "Intrarea Tribunei",,,,way
 "Intrarea Trompetului",,,,way
 "Intrarea Trubadurului",,,,way
@@ -1194,6 +1198,7 @@ DN6D,,,,way
 "Intrarea Viitorului",,,,way
 "Intrarea Vijeliei",,,,way
 "Intrarea Violoncelului",,,,way
+"Intrarea Viorele",,,,way
 "Intrarea Vișeul de Sus",,,,way
 "Intrarea Vișinilor",,,,way
 "Intrarea Vlad Județul",,,,way
@@ -1281,7 +1286,7 @@ Odei,,,,way
 "Pedestrian Bridge",,,,way
 "Pedestrian access",,,,way
 "Pedestrian access to Como Park Virtutii 56E entrance",,,,way
-"Piața 21 Decembrie 1989",,,,relation
+"Piața 21 Decembrie 1989",,,,way
 "Piața Alba Iulia",,,,way
 "Piața Alger",,,,way
 "Piața Amzei",,,,way
