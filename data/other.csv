@@ -25,12 +25,9 @@ A2,,,,way
 "Aleea Baia de Arieș",,,,way
 "Aleea Banul Udrea",,,,way
 "Aleea Banul Udrea 5",,,,way
-"Aleea Barajul Bicaz",,,,way
-"Aleea Barajul Bistrița",,,,way
 "Aleea Barajul Bistriței",,,,way
 "Aleea Barajul Cucuteni",,,,way
 "Aleea Barajul Dunării",,,,way
-"Aleea Barajul Iezeru",,,,way
 "Aleea Barajul Lotru",,,,way
 "Aleea Barajul Rovinari",,,,way
 "Aleea Barajul Sadului",,,,way
@@ -42,7 +39,6 @@ A2,,,,way
 "Aleea Blăjel",,,,way
 "Aleea Borcea",,,,way
 "Aleea Botorani",,,,way
-"Aleea Bran",,,,way
 "Aleea Brașoveni",,,,way
 "Aleea Brădișului",,,,way
 "Aleea Buchetului",,,,way
@@ -161,7 +157,6 @@ A2,,,,way
 "Aleea Leorda",,,,way
 "Aleea Lerești",,,,way
 "Aleea Lipănești",,,,way
-"Aleea Livada cu Duzi",,,,way
 "Aleea Livezilor",,,,way
 "Aleea Locotenent Aviator Gheorghe Stâlpeanu",,,,way
 "Aleea Luiza Mioara Mirea",,,,way
@@ -199,7 +194,6 @@ A2,,,,way
 "Aleea Nehoiu",,,,way
 "Aleea Niculițel",,,,way
 "Aleea Ninsorii",,,,way
-"Aleea Norilor",,,,way
 "Aleea Nucului",,,,way
 "Aleea Obcina Mica",,,,way
 "Aleea Oituz",,,,way
@@ -222,12 +216,10 @@ A2,,,,way
 "Aleea Platanilor",,,,way
 "Aleea Platanului",,,,way
 "Aleea Plenița",,,,way
-"Aleea Pleșești",,,,way
 "Aleea Poarta Albă",,,,way
 "Aleea Poarta Sărutului",,,,way
 "Aleea Podul Giurgiului",,,,way
 "Aleea Podului Mare",,,,way
-"Aleea Poenari",,,,way
 "Aleea Poet Emil Botta",,,,way
 "Aleea Poiana Mare",,,,way
 "Aleea Poiana Muntelui",,,,way
@@ -263,11 +255,11 @@ A2,,,,way
 "Aleea Rondului Român",,,,way
 "Aleea Rotundă",,,,way
 "Aleea Rădășeni",,,,way
+"Aleea SLT. Adrian Cârstea",,,,way
 "Aleea Sandava",,,,way
 "Aleea Sargeția",,,,way
 "Aleea Scroviștea",,,,way
 "Aleea Secuilor",,,,way
-"Aleea Serg. Maj. Emil Holut",,,,way
 "Aleea Sibiana",,,,way
 "Aleea Siliștea",,,,way
 "Aleea Sinaia",,,,way
@@ -304,7 +296,6 @@ A2,,,,way
 "Aleea Tibiscum",,,,way
 "Aleea Timișu de Jos",,,,way
 "Aleea Timișu de Sus",,,,way
-"Aleea Tohani",,,,way
 "Aleea Tomești",,,,way
 "Aleea Topoloveni",,,,way
 "Aleea Tornadei",,,,way
@@ -324,12 +315,9 @@ A2,,,,way
 "Aleea Valea Viilor",,,,way
 "Aleea Valea lui Mihai",,,,way
 "Aleea Vârful cu Dor",,,,way
-"Aleea Vasile Goldiș",,,,way
 "Aleea Vicina",,,,way
-"Aleea Vișana",,,,way
 "Aleea Vlăhița",,,,way
 "Aleea Vlăsiei",,,,way
-"Aleea Zânelor",,,,way
 "Aleea Zarandului",,,,way
 "Aleea Zemeș",,,,way
 "Aleea Zorelelor",,,,way
@@ -668,7 +656,6 @@ DN6D,,,,way
 "Intrarea Anestinelor",,,,way
 "Intrarea Aniversării",,,,way
 "Intrarea Antenei",,,,way
-"Intrarea Anton Bacalbaşa",,,,way
 "Intrarea Arenei",,,,way
 "Intrarea Argeaua",,,,way
 "Intrarea Argintului",,,,way
@@ -703,7 +690,6 @@ DN6D,,,,way
 "Intrarea Blidari",,,,way
 "Intrarea Bobeică",,,,way
 "Intrarea Bolboci",,,,way
-"Intrarea Bologa",,,,way
 "Intrarea Bondarului",,,,way
 "Intrarea Borceag",,,,way
 "Intrarea Botorca",,,,way
@@ -1160,7 +1146,6 @@ DN6D,,,,way
 "Intrarea Toporași",,,,way
 "Intrarea Traian Demetrescu",,,,way
 "Intrarea Trei Brazi",,,,way
-"Intrarea Trestiana",,,,way
 "Intrarea Tribunei",,,,way
 "Intrarea Trompetului",,,,way
 "Intrarea Trubadurului",,,,way
@@ -1515,6 +1500,7 @@ Pipera,,,,relation
 "Strada Ancuța Băneasa",,,,way
 "Strada Andrei Bârseanu",,,,way
 "Strada Anestinelor",,,,way
+"Strada Anghel Dogaru",,,,way
 "Strada Anghel Moldoveanu",,,,way
 "Strada Anghel Nuțu",,,,way
 "Strada Anghel Saligny",,,,way
@@ -1665,7 +1651,6 @@ Pipera,,,,relation
 "Strada Banul Udrea",,,,way
 "Strada Banului",,,,way
 "Strada Barajul Argeș",,,,way
-"Strada Barajul Bicaz",,,,way
 "Strada Barajul Uzului",,,,way
 "Strada Barajului",,,,way
 "Strada Baraolt",,,,way
@@ -3469,7 +3454,6 @@ Pipera,,,,relation
 "Strada Mițari",,,,way
 "Strada Mlădiței",,,,way
 "Strada Moara Roșie",,,,way
-"Strada Mocăncuței",,,,way
 "Strada Modestiei",,,,way
 "Strada Moeciu",,,,way
 "Strada Mohorului",,,,way
@@ -4375,6 +4359,7 @@ Pipera,,,,relation
 "Strada Soarelui",,,,way
 "Strada Soceni",,,,way
 "Strada Socolești",,,,way
+"Strada Socului",,,,way
 "Strada Sofia",,,,way
 "Strada Sold. Ion Gh. Ion",,,,way
 "Strada Soldat Adrian Pătru",,,,way
@@ -4474,7 +4459,6 @@ Pipera,,,,relation
 "Strada Sterian Margareta",,,,way
 "Strada Stindardului",,,,way
 "Strada Stockholm",,,,way
-"Strada Stoenești",,,,way
 "Strada Stoian Militaru",,,,way
 "Strada Stoica Ludescu",,,,way
 "Strada Stoicănești",,,,way
@@ -4977,7 +4961,9 @@ Tei,,,,relation
 "The Meadows",,,,way
 Tineretului,,,,relation
 "Trecere neamenajată",,,,way
+"Universitate Subway Entrance",,,,way
 "fosta pasarelă pietonală Gara Obor",,,,way
+"radu voda",,,,way
 "Șoseaua Alexandria",,,,way
 "Șoseaua Alexandriei",,,,way
 "Șoseaua Andronache",,,,way
