@@ -268,6 +268,7 @@ A2,,,,way
 "Aleea Snagov",,,,way
 "Aleea Soarelui",,,,way
 "Aleea Socului",,,,way
+"Aleea Solca",,,,way
 "Aleea Soldat Barbu Nicolae",,,,way
 "Aleea Solidarității",,,,way
 "Aleea Someșul Cald",,,,way
@@ -333,7 +334,6 @@ A2,,,,way
 "Aleea Țibleș",,,,way
 "Aleea Țincani",,,,way
 "Aleea Țăndărei",,,,way
-Amman,,,,way
 Andronache,,,,relation
 "Anton Holban",,,,way
 "Autostrada Bucuresti - Ploiesti",,,,way
@@ -1098,7 +1098,6 @@ DN6D,,,,way
 "Intrarea Sisești",,,,way
 "Intrarea Slobozia",,,,way
 "Intrarea Smaranda",,,,way
-"Intrarea Solca",,,,way
 "Intrarea Soldat Dobre Ion",,,,way
 "Intrarea Soldat Gheorghe Buciumat",,,,way
 "Intrarea Soldat Gheorghe Mina",,,,way
@@ -1269,7 +1268,6 @@ Odei,,,,way
 "Pasajul subteran Piața Presei Libere",,,,way
 "Pasarela pietonală Popești-Leordeni",,,,way
 "Pedestrian Bridge",,,,way
-"Pedestrian access",,,,way
 "Pedestrian access to Como Park Virtutii 56E entrance",,,,way
 "Piața 21 Decembrie 1989",,,,way
 "Piața Alba Iulia",,,,way
@@ -2007,6 +2005,7 @@ Pipera,,,,relation
 "Strada Colonel Corneliu Popeia",,,,way
 "Strada Colonel Gheorghe Costescu",,,,way
 "Strada Colonel Iosif Albu",,,,way
+"Strada Colonel Iosif albu",,,,way
 "Strada Colonel Ștefan Stoika",,,,way
 "Strada Coloniei",,,,way
 "Strada Colței",,,,way
@@ -3132,6 +3131,8 @@ Pipera,,,,relation
 "Strada Lacul Orza",,,,way
 "Strada Lacul Pasărea",,,,way
 "Strada Lacul Plopului",,,,way
+"Strada Lacul Plopului 10",,,,way
+"Strada Lacul Plopului 7",,,,way
 "Strada Lacul Rastu",,,,way
 "Strada Lacul Ursului",,,,way
 "Strada Lacul Zănoaga",,,,way
@@ -3413,6 +3414,7 @@ Pipera,,,,relation
 "Strada Mihail Jora",,,,way
 "Strada Mihail Moxa",,,,way
 "Strada Mihail Sebastian",,,,way
+"Strada Mihail Sebastian 33",,,,way
 "Strada Mihail Târnoveanu",,,,way
 "Strada Mihalache Raiciu",,,,way
 "Strada Mihnea Vodă",,,,way
@@ -4964,6 +4966,8 @@ Tineretului,,,,relation
 "Universitate Subway Entrance",,,,way
 "fosta pasarelă pietonală Gara Obor",,,,way
 "radu voda",,,,way
+"strada București",,,,way
+"strada Stan Constantin",,,,way
 "Șoseaua Alexandria",,,,way
 "Șoseaua Alexandriei",,,,way
 "Șoseaua Andronache",,,,way
