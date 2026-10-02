@@ -78,7 +78,6 @@ A2,,,,way
 "Aleea Constantin Sandu-Aldea",,,,way
 "Aleea Copiilor",,,,way
 "Aleea Costinești",,,,way
-"Aleea Covasna",,,,way
 "Aleea Cozia",,,,way
 "Aleea Craiovița",,,,way
 "Aleea Crețulescu",,,,way
@@ -87,7 +86,6 @@ A2,,,,way
 "Aleea Crăiești",,,,way
 "Aleea Cumidava",,,,way
 "Aleea Cumințenia Pământului",,,,way
-"Aleea Călinești",,,,way
 "Aleea Danaide",,,,way
 "Aleea Dealul Mitropoliei",,,,way
 "Aleea Dealul Măcinului",,,,way
@@ -191,7 +189,6 @@ A2,,,,way
 "Aleea Mădărași",,,,way
 "Aleea Măgura Vulturului",,,,way
 "Aleea Mărțișor",,,,way
-"Aleea Nehoiu",,,,way
 "Aleea Niculițel",,,,way
 "Aleea Ninsorii",,,,way
 "Aleea Nucului",,,,way
@@ -264,12 +261,10 @@ A2,,,,way
 "Aleea Siliștea",,,,way
 "Aleea Sinaia",,,,way
 "Aleea Slt. Adrian Cîrstea",,,,way
-"Aleea Slătioara",,,,way
 "Aleea Snagov",,,,way
 "Aleea Soarelui",,,,way
 "Aleea Socului",,,,way
 "Aleea Solca",,,,way
-"Aleea Soldat Barbu Nicolae",,,,way
 "Aleea Solidarității",,,,way
 "Aleea Someșul Cald",,,,way
 "Aleea Someșul Mare",,,,way
@@ -471,6 +466,7 @@ DN6D,,,,way
 "Drum radial 1",,,,way
 "Drum radial 4",,,,way
 "Drum radial 9",,,,way
+"Drumul  Valea Călmăţuiului",,,,way
 "Drumul Agatului",,,,way
 "Drumul Arieș",,,,way
 "Drumul Bacriului",,,,way
@@ -710,6 +706,7 @@ DN6D,,,,way
 "Intrarea Calelor",,,,way
 "Intrarea Calității",,,,way
 "Intrarea Caloian Județul",,,,way
+"Intrarea Câmpenești",,,,way
 "Intrarea Câmpul cu Maci",,,,way
 "Intrarea Canalul Argeș",,,,way
 "Intrarea Canarului",,,,way
@@ -1269,6 +1266,7 @@ Odei,,,,way
 "Pasarela pietonală Popești-Leordeni",,,,way
 "Pedestrian Bridge",,,,way
 "Pedestrian access to Como Park Virtutii 56E entrance",,,,way
+"Piaţa Timpului",,,,way
 "Piața 21 Decembrie 1989",,,,way
 "Piața Alba Iulia",,,,way
 "Piața Alger",,,,way
@@ -4270,7 +4268,6 @@ Pipera,,,,relation
 "Strada Sergent Major Florea Blejan",,,,way
 "Strada Sergent Major Marin Drag",,,,way
 "Strada Sergent Major Nedeleanu Ion",,,,way
-"Strada Sergent Major Popescu Victor",,,,way
 "Strada Sergent Major Samoilă Dumitru",,,,way
 "Strada Sergent Major Sorescu Ștefan",,,,way
 "Strada Sergent Manea Șerban",,,,way
@@ -4694,7 +4691,6 @@ Pipera,,,,relation
 "Strada Valea Cascadelor",,,,way
 "Strada Valea Cerbului",,,,way
 "Strada Valea Cibinului",,,,way
-"Strada Valea Călmăţuiului",,,,way
 "Strada Valea Călugărească",,,,way
 "Strada Valea Hârtibaciului",,,,way
 "Strada Valea Ialomiței",,,,way
@@ -4965,7 +4961,6 @@ Tineretului,,,,relation
 "Trecere neamenajată",,,,way
 "Universitate Subway Entrance",,,,way
 "fosta pasarelă pietonală Gara Obor",,,,way
-"radu voda",,,,way
 "strada București",,,,way
 "strada Stan Constantin",,,,way
 "Șoseaua Alexandria",,,,way
